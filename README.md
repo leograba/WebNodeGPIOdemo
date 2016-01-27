@@ -13,7 +13,7 @@ This demo is part of an article on how to access/control the GPIO via web with a
 
 [Demo 1 - Control GPIO using Node.js](https://github.com/leograba/NodeGPIOdemo.git)
 
-[demo 3 - Control multiple GPIO via a friendly web UI, using Node.js](https://github.com/leograba/WebNodeMultiGPIOdemo.git)
+[Demo 3 - Control multiple GPIO via a friendly web UI, using Node.js](https://github.com/leograba/WebNodeMultiGPIOdemo.git)
 
 # Dependencies
 To run this application some node modules need to be installed:
