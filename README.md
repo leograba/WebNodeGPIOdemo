@@ -28,9 +28,11 @@ To run this application some node modules need to be installed:
 After installing the dependencies you can run the application using Node. Then just access http://192.168.0.180:3000/ (default values - modify the server code for other values) to get to the menu.
 
 To run it you need just to:
+
 	node server.js
 
 To display log messages:
+
 	DEBUG=myserver node server.js
 
 ## Helpful modules
