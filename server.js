@@ -22,7 +22,7 @@ const	LED1 = '47', // PTC2, 101(SODIMM), 16(IRIS)
 		SW3 = '48'; // PTC3, 103(SODIMM), 15(IRIS)
 
 /* Constants */
-const HIGH = 1, LOW = 0, IP_ADDR = '192.168.0.180', PORT_ADDR = 3000;
+const HIGH = 1, LOW = 0, IP_ADDR = '0.0.0.0', PORT_ADDR = 3000;
 
 //starting app
 debug('Starting VF61 webserver and GPIO control'); //Hello message
